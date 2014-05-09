@@ -1,5 +1,4 @@
 .vimrc file
-
 Functionality:
 
 	Tabs - 2
